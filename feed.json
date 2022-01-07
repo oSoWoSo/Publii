@@ -1,0 +1,94 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "oSoWoSo",
+    "description": "",
+    "home_page_url": "https://oSoWoSo.xyz",
+    "feed_url": "https://oSoWoSo.xyz/feed.json",
+    "user_comment": "",
+    "icon": "https://oSoWoSo.xyz/media/website/osowoso.jpg",
+    "author": {
+        "name": "zenobit"
+    },
+    "items": [
+        {
+            "id": "https://oSoWoSo.xyz/old-sites/",
+            "url": "https://oSoWoSo.xyz/old-sites/",
+            "title": "old sites",
+            "summary": "Here you can find my old websites… ",
+            "content_html": "<p>Here you can find my old websites…</p>\n",
+            "author": {
+                "name": "zenobit"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-07T13:47:32+01:00",
+            "date_modified": "2022-01-07T13:47:32+01:00"
+        },
+        {
+            "id": "https://oSoWoSo.xyz/zenobit/",
+            "url": "https://oSoWoSo.xyz/zenobit/",
+            "title": "zenobit",
+            "author": {
+                "name": "zenobit"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-07T09:39:27+01:00",
+            "date_modified": "2022-01-07T09:39:27+01:00"
+        },
+        {
+            "id": "https://oSoWoSo.xyz/about-2/",
+            "url": "https://oSoWoSo.xyz/about-2/",
+            "title": "about",
+            "author": {
+                "name": "zenobit"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-07T09:39:17+01:00",
+            "date_modified": "2022-01-07T09:39:17+01:00"
+        },
+        {
+            "id": "https://oSoWoSo.xyz/covid/",
+            "url": "https://oSoWoSo.xyz/covid/",
+            "title": "covid",
+            "summary": "Don’t watch TV coverage of Covid-19! — by Richard Stallman Don’t watch TV coverage of Covid-19! (Or “social media”; the details are different.)&hellip;",
+            "content_html": "<h1 id=\"dont-watch-tv-coverage-of-covid-19\">Don’t watch TV coverage of Covid-19!</h1>\n<h3 id=\"-by-richard-stallman\">— by Richard Stallman</h3>\n<p>Don’t watch TV coverage of Covid-19! (Or “social media”; the details are different.) Watching repetitive coverage of something frightening can interfere with clear thinking, even traumatize people.</p>\n<p>TV news coverage of a crisis struggles to fill 24 hours a day with “information”, notwithstanding the fact that the actual flow of new information about the crisis is nowhere near sufficient to fill that time. What do they do? They repeat. They present tangential and minor details. They make the same points in different ways. They belabor the obvious. They repeat.</p>\n<p>If your goal is to be informed, you don’t need to dwell on the crisis for hours every day. Not even one hour a day. Getting your news in this inefficient matter will waste a lot of time — and worse.</p>\n<p>In addition, it will make you more and more anxious. Someone I knew in 2001, who lived in California. spent all day on Sep 11 and following days watching the TV coverage. Afterward perse was afraid to go outside, watching for terrorist airplanes. TV made it possible for per to be traumatized by events 3000 miles away.</p>\n<p>That was an unusually strong case. Most people did not get so traumatized as that. That does not imply it did not affect them. I suspect that the TV coverage may have shifted millions of people’s perceptions, so that they overestimated the danger of terrorism while downplaying the danger of laws that take away freedom. This would have smoothed the path for careless passage of the dangerous USA PAT RIOT Act and its massive surveillance.</p>\n<p>In any a good, general textual news site, you can read the things you really want to know about Covid-19 in 10 or 20 minutes a day. Then you won’t fall behind on your work, and you won’t be brainwashed into panic.</p>\n<h1 id=\"keep-calm-and-carry-on\">Keep calm and carry on!</h1>\n<p>Copyright © 2020 Richard Stallman Verbatim copying and redistribution of this entire page are permitted provided this notice is preserved.</p>\n<p><a href=\"./\">back</a></p>\n",
+            "author": {
+                "name": "zenobit"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-07T09:38:04+01:00",
+            "date_modified": "2022-01-07T09:38:04+01:00"
+        },
+        {
+            "id": "https://oSoWoSo.xyz/vb/",
+            "url": "https://oSoWoSo.xyz/vb/",
+            "title": "vb-linux",
+            "summary": " We used arch BTW :D Void linux is best linux distribution out there. With one exception. Not that easy for linux or&hellip;",
+            "content_html": "<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"/assets/img/void_bg_christmas.png\" data-is-external-image=\"true\"  alt=\"void\" /></figure></p>\n<h1 id=\"welcome-to-vb-linux\">Welcome to <strong>vb</strong>-<strong>linux</strong></h1>\n<p>      We used arch BTW :D</p>\n<p> <a href=\"https://voidlinux.org/\">Void linux</a> is best linux distribution out there.</p>\n<p> With one exception. Not that easy for linux or computer begginers.\n \n (like could be)</p>\n<h3 id=\"what-about-project-trident-\">What about Project Trident ?</h3>\n<p><a href=\"https://project-trident.org\">Project Trident</a> sadly heading to the end.</p>\n<p>Looks like nothing based on void anywhere …</p>\n<p><strong>I admire hard work of void developers and contributors</strong></p>\n<p>A lot of distribution based on debian or arch …</p>\n<h2 id=\"and-here-i-came-\">And here I came …</h2>\n<p>Void is first linux distribution which is still easy to understand and manage.</p>\n<p>Together with enough recent versions of packages and stability.</p>\n<p>So let’s endorse <a href=\"https://voidlinux.org/\">void</a> a bit …</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"/assets/img/void_fg_christmas.png\" data-is-external-image=\"true\"  alt=\"void\" /></figure></p>\n<h1 id=\"vb-linuxgnu\"><strong>vb-linux/GNU</strong></h1>\n<p>I am starting community project …</p>\n<h1 id=\"goal\">Goal</h1>\n<ul>\n<li>build start point.</li>\n<li>you can call it <code>void begginer friendly overlay</code></li>\n<li>full-featured desktop operation system for anyone.</li>\n</ul>\n<h1 id=\"how-\">How ?</h1>\n<p>You didn’t know void yet don’t you?</p>\n<p>easy</p>\n<ul>\n<li>provide installation media</li>\n<li>provide this website</li>\n<li>provide <code>community repository</code> called simply <a href=\"https://github.com/vb-linux/VUR\">VUR</a></li>\n<li>thanks to <a href=\"https://en.wikipedia.org/wiki/Unix_philosophy\">unix</a> and <a href=\"https://en.wikipedia.org/wiki/KISS_principle\">KISS</a> principle</li>\n</ul>\n<h1 id=\"why-\">Why ?</h1>\n<ul>\n<li>because a lot of usefull apps can’t be merged into void repos.</li>\n<li>(for good reasons)</li>\n<li>help promote excellent void linux</li>\n<li>help promote privacy, security and federation</li>\n<li>help promote GNU/linux and FOSS in general</li>\n<li>help create FOSS world bigger</li>\n<li>because we can</li>\n<li>learn more</li>\n<li>have fun</li>\n</ul>\n<h2 id=\"interested-\">Interested ?</h2>\n<p>Soon in your computers …</p>\n<p> BTW :D</p>\n<p>Stay in touch …</p>\n<p>zenobit <a href=\"https://github.com/oSoWoSo\">oSoWoSo</a></p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"/assets/img/void_bg_christmas.png\" data-is-external-image=\"true\"  alt=\"merry christmas\" /></figure></p>\n<h1 id=\"license\">LICENSE</h1>\n<p>FOSS project under EUPL 1.2 license</p>\n<p><a href=\"./\">back</a></p>\n",
+            "author": {
+                "name": "zenobit"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-07T09:31:13+01:00",
+            "date_modified": "2022-01-07T13:41:13+01:00"
+        },
+        {
+            "id": "https://oSoWoSo.xyz/osowoso/",
+            "url": "https://oSoWoSo.xyz/osowoso/",
+            "title": "oSoWoSo",
+            "summary": " We used arch BTW :D oSoWoSo ",
+            "content_html": "\n    <figure class=\"blockquote\">\n      <blockquote>We used arch BTW :D</blockquote>\n      <figcaption>oSoWoSo</figcaption>\n    </figure>",
+            "author": {
+                "name": "zenobit"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-16T00:48:34+01:00",
+            "date_modified": "2021-12-16T00:48:34+01:00"
+        }
+    ]
+}

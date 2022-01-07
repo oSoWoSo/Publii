@@ -1,0 +1,412 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "fefcfa3c4e6e8094c9bbcd2a49d69d0b"
+    },
+    {
+        "path": "about-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-2/index.html",
+        "type": "file",
+        "md5": "a6d1616f76ccde5e737db841c2d6d542"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "dbf9d822cefe851ba6f66e1ad57e8987"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "1f37152b151c9c4afdc4a61f80250faf"
+    },
+    {
+        "path": "/assets/css/noscript.css",
+        "type": "file",
+        "md5": "6228c7eee614cd200a2cad8333b439fa"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "e8a10fd1fec65c390c4ef7949c4cd532"
+    },
+    {
+        "path": "assets/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/images/overlay.png",
+        "type": "file",
+        "md5": "34aca8cf1dcd5a4077c26c80950d00c6"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+    },
+    {
+        "path": "/assets/js/jquery.scrollex.min.js",
+        "type": "file",
+        "md5": "f89065e3d988006af9791b44561d7c90"
+    },
+    {
+        "path": "/assets/js/jquery.scrolly.min.js",
+        "type": "file",
+        "md5": "1ed5a78bde1476875a40f6b9ff44fc14"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "41b8842b07b5376db6ae1da66317b0a9"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "149e72e3ae18744a477b480b19e0c6da"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "4201a626f8c9b614a663b3a1d7d82615"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.eot",
+        "type": "file",
+        "md5": "03783c5172ee1ad128c576bf88fac168"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.svg",
+        "type": "file",
+        "md5": "1e146a9d2141d39e412259812a6bdb94"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "ed2b8bf117160466ba6220a8f1da54a4"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff",
+        "type": "file",
+        "md5": "fe9d62e0d16a333a20e63c3e7595f82e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "7559b3774a0625e8ca6c0160f8f6cfd8"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.eot",
+        "type": "file",
+        "md5": "fc9c63c8224fb341fc933641cbdd12ef"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.svg",
+        "type": "file",
+        "md5": "0f9cc91caae1d6270ca9565e02bcd5e1"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "59215032a4397507b80e5625dc323de3"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff",
+        "type": "file",
+        "md5": "e5770f9863963fb576942e25214a226d"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "e07d9e40b26048d9abe2ef966cd6e263"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.eot",
+        "type": "file",
+        "md5": "ef3df98419d143d9617fe163bf4edc0b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.svg",
+        "type": "file",
+        "md5": "6c284a6deef590e5494e13c1b7aa387c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "acf50f59802f20d8b45220eaae532a1c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff",
+        "type": "file",
+        "md5": "4bced7c4c0d61d4f988629bb8ae80b8b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "b5cf8ae26748570d8fb95a47f46b69e1"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/zenobit",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/zenobit/index.html",
+        "type": "file",
+        "md5": "ebe4939f09914ad0a188548be37cd1cf"
+    },
+    {
+        "path": "covid",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/covid/index.html",
+        "type": "file",
+        "md5": "4bf5da829ee83261a82689fe2d0c6cd7"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "18af65bb81abe25746fdf7c334855ea8"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "fa1d9c022d3857b6080c182908b4a34a"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "6036e7232cc87a915ab3d0f6e29ed745"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/bkg4096x4096.png",
+        "type": "file",
+        "md5": "60dae001ee1449f591f4f3dbc91f1334"
+    },
+    {
+        "path": "/media/website/osowoso.jpg",
+        "type": "file",
+        "md5": "daec1d693e97de8d8a86a50ee435e680"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/bkg4096x4096-2xl.png",
+        "type": "file",
+        "md5": "7df0e28addae9fbc952914c623955c3e"
+    },
+    {
+        "path": "/media/website/responsive/bkg4096x4096-lg.png",
+        "type": "file",
+        "md5": "5089f4dbc542694a9d9de3be3af68f7b"
+    },
+    {
+        "path": "/media/website/responsive/bkg4096x4096-md.png",
+        "type": "file",
+        "md5": "cad9c513561e1d2fe7fb6689acd20355"
+    },
+    {
+        "path": "/media/website/responsive/bkg4096x4096-sm.png",
+        "type": "file",
+        "md5": "92feb606359ed16099e4222df66d7bce"
+    },
+    {
+        "path": "/media/website/responsive/bkg4096x4096-xl.png",
+        "type": "file",
+        "md5": "7b4bd01a4eef06ab969cf87b1a7af997"
+    },
+    {
+        "path": "/media/website/responsive/bkg4096x4096-xs.png",
+        "type": "file",
+        "md5": "f826483aca8ba9a46ccf242d2de8e3fe"
+    },
+    {
+        "path": "/media/website/responsive/osowoso-2xl.jpg",
+        "type": "file",
+        "md5": "3f34760db9c09da5afd1707fc333c485"
+    },
+    {
+        "path": "/media/website/responsive/osowoso-lg.jpg",
+        "type": "file",
+        "md5": "3f34760db9c09da5afd1707fc333c485"
+    },
+    {
+        "path": "/media/website/responsive/osowoso-md.jpg",
+        "type": "file",
+        "md5": "3f34760db9c09da5afd1707fc333c485"
+    },
+    {
+        "path": "/media/website/responsive/osowoso-sm.jpg",
+        "type": "file",
+        "md5": "6b86f68220ccfb9ed93efad108020170"
+    },
+    {
+        "path": "/media/website/responsive/osowoso-xl.jpg",
+        "type": "file",
+        "md5": "3f34760db9c09da5afd1707fc333c485"
+    },
+    {
+        "path": "/media/website/responsive/osowoso-xs.jpg",
+        "type": "file",
+        "md5": "2281c237f903e62959087ede3984a49c"
+    },
+    {
+        "path": "old-sites",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/old-sites/index.html",
+        "type": "file",
+        "md5": "7f63327f7ab4540c92f4c24b4cfd3852"
+    },
+    {
+        "path": "osowoso",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/osowoso/index.html",
+        "type": "file",
+        "md5": "df5c8a62be014fe1d6b42fbcd0c68e7f"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b462208cc813457f8edb64c038777a41"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "66bb6839768992a20a53eb3ef364c454"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "a610994b40fb0e3424892d7174875218"
+    },
+    {
+        "path": "vb",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/vb/index.html",
+        "type": "file",
+        "md5": "dedf5da312c6446d7230d75a52226894"
+    },
+    {
+        "path": "zenobit",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/zenobit/index.html",
+        "type": "file",
+        "md5": "65d3ba4e6e26435ea3a98c2c73ea59b3"
+    }
+]
